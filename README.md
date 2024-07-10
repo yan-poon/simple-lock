@@ -38,7 +38,7 @@ git clone https://github.com/yan-poon/simple-lock.git
 2. Navigate to the project directory
 
 ```bash
-cd yourprojectname
+cd simple-lock
 ```
 
 3. Use Maven to install dependencies and build the project
@@ -62,14 +62,6 @@ Add additional notes about how to deploy this on a live system.
 ## Built With
 
 * [Maven](https://maven.apache.org/) - Dependency Management
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://github.com/yan-poon/simple-lock/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/yan-poon/simple-lock/tags).
 
 ## Authors
 
